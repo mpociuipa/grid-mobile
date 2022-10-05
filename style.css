@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+
+}
+header {
+    background: rgb(32, 31, 31);
+    background-size:cover;
+    background-position: center;
+   
+}
+img {
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 30px;
+    background-size:cover;
+    background-position: center;
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+header h2 {
+    color: gold;
+    text-align: center;
+  
+
+}
+header p {
+    color:rgb(241, 245, 245);
+    text-align: center;
+}
+.title {
+    background: gold;
+    background-position: center;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    background: white;
+    padding: 10px;
+    text-align: left;
+}
+main ul {
+    padding: 10px;
+    text-align: left;
+}
+main li {
+    padding: 20px;
+    border-top: 1px;
+    color: grey;
+    text-align: left;
+}
+aside ul .li-1 {
+    background-color: rgb(199, 198, 190);
+    padding: 20px;
+    text-align: center;
+}
+aside ul .li-2 {
+    background-color: burlywood;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+aside ul .li-3 {
+    background-color: rgb(163, 113, 19);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+aside ul .li-4 {
+    background-color: rgb(194, 126, 47);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color:rgb(44, 40, 40);
+    color: white;
+}
+footer h2 {
+    padding: 20px;
+}
+footer address {
+    padding: 20px;
+}
